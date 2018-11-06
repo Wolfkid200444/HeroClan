@@ -1,156 +1,269 @@
 body {
-	background: url('mycool2.jpg') repeat;
-	background-size: cover;
+
+	background: url('mycool2.jpg') repeat;	background-size: cover;
+
 	font-family: verdana;
+
 	color: white;
+
 }
-
-
-
-
 
 .nav_bar {
-background: #FFFFFF;
+
+background: #2284F1;
+
 border: 2.1px solid #000000;
+
 width: 900px;
+
 margin: auto;
+
 font-size: 30px;
+
 font-weight: bold;
+
 text-transform: uppercase;
+
 padding: 10px 20px 10px 20px
+
 -webkit-border-radius: 10px;
+
 -moz-border-radius: 10px;
+
 border-radius: 10px;
+
 text-align: center;
+
 margin-top: 20px;
+
 }
 
-
-
-
 .nav_bar a {
+
 color: #000000;
+
 text-decoration: none;
 
 }
 
-
-
 .nav_bar a:hover {
-color: #000000;
-text-decoration: underline;
-margin-left: 20px;
-margin-right: 20px;
 
+color: #AF1DEA;
+
+text-decoration: underline;
+
+margin-left: 20px;
+
+margin-right: 20px;
 
 }
 
-
-
-
-
-
 	
+
 	.download_button p	{
+
 		
+
 		background: #FFFFFF;
+
 border: 2px solid #000000;
+
 width: 600px;
+
 margin: auto;
+
 text-transform: uppercase;
+
 padding: 10px 20px 10px 20px
+
 -webkit-border-radius: 10px;
+
 -moz-border-radius: 10px;
+
 border-radius: 10px;
+
 text-align: center;
+
 margin-top: 20px;
 
 }
+
 	
+
 	
+
 	
+
 	
+
 	.download_button	{
+
 		color: #C818E7;
+
 		font-weight: bold;
+
 		
+
 		
+
 		
+
 		
+
 	}
-	
-	
+
 	
 
 	
+
 	
+
+	
+
+	
+
 	.download_button	 p:hover {
+
 		color: #C3C3C3;
+
 		text-decoration: underline;
+
 		
+
 		
+
 		
+
 		
+
 	}
-	
-	
+
 	
 
 	
+
 	
+
 	
+
+	
+
+	
+
 	.download_button p {
+
 		color: #FFFFFF;
+
 		text-decoration: underline;
+
 		font-size: 30px;
+
 		
+
 		
+
 		
+
 	}
+
 	
+
 	
+
 	
+
 	.download_button l	{
+
 		color: #FFFFFF;
+
 		font-weight: bold;
+
 		
+
 		
+
 		
+
 		
+
 	}
+
 	
+
 	
+
 	
+
 	
+
 	
+
 	.download_button p:hover {
+
 		color: #000000;
+
 		text-decoration: underline;
+
 		
+
 		
+
 		
+
 		
+
 	}
+
 	
+
 	
+
 	
+
 	
 
 		.download_button p {
+
 		color: #000000;
+
 		text-decoration: underline;
+
 		font-size: 30px;
+
 		
+
 	}
 
-
 .download_button 	{
+
 		color: #000000;
+
 		font-weight: bold;
+
 		
+
 		
+
 		
+
 		
-       } 
+
+	}
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+ 
 
 	
