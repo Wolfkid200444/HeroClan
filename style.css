@@ -64,7 +64,7 @@ margin-right: 20px;
 
 		
 
-		background: #db0da4;
+background: #db0da4;
 
 border: 2px solid #000000;
 
@@ -153,10 +153,11 @@ margin-top: 20px;
 	.download_button p {
 
 		color: #FFFFFF;
+                font-size: 30px;
 
-		text-decoration: underline;
 
-		font-size: 30px;
+
+
 
 		
 
